@@ -1,11 +1,14 @@
 .left{
   float: left;
   width: 300px;
+  background-color: red;
 }
 .right{
   width: 300px;
+  background-color: blue;
 }
 .center{
   float:none;
   width: 300px;
+  background-color: green;
 }
